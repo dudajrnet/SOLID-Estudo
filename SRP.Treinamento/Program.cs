@@ -3,7 +3,7 @@ using Refatoracao;
 
 var services = new ServiceCollection();
 services.AddTransient<Validation>();
-services.AddTransient<Calculater>();
+services.AddTransient<Calculator>();
 services.AddTransient<Repository>();
 services.AddTransient<Email>();
 services.AddTransient<Receipt>();
