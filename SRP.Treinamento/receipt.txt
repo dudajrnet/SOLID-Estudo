@@ -1,0 +1,5 @@
+=== RECIBO ===
+Cliente: joao@teste.com
+Subtotal: R$ 200,00
+Desconto: R$ 20,00
+Total: R$ 180,00

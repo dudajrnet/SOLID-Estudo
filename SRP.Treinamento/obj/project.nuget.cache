@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QeVjEfa246U=",
+  "success": true,
+  "projectFilePath": "C:\\DevLab\\Git\\SOLID-Estudo\\SRP.Treinamento\\SRP.Treinamento.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dudaj\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.0\\microsoft.extensions.dependencyinjection.10.0.0.nupkg.sha512",
+    "C:\\Users\\dudaj\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.0\\microsoft.extensions.dependencyinjection.abstractions.10.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
