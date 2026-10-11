@@ -1,4 +1,4 @@
-﻿using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.DependencyInjection;
 using Refatoracao;
 
 var services = new ServiceCollection();
@@ -13,11 +13,11 @@ using var serviceProvider = services.BuildServiceProvider();
 
 var order = new Order
 {
-    CustomerEmail="joao@teste.com",
+    CustomerEmail = "joao@teste.com",
     Discount = 20,
     Subtotal = 200
 };
 
-var processorOrder = serviceProvider.GetRequiredService<Refatoracao.OrderProcessor>();
+var processorOrder = serviceProvider.GetRequiredService<OrderProcessor>();
 
 processorOrder.Process(order);
