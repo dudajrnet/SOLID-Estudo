@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="LSP.Treinamento.Tests/LSP.Treinamento.Tests.csproj" />
+  <Project Path="LSP.Treinamento/LSP.Treinamento.csproj" />
+  <Project Path="OCP.Treinamento/OCP.Treinamento.csproj" />
+  <Project Path="SRP.Treinamento/SRP.Treinamento.csproj" />
+</Solution>
