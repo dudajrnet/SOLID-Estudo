@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="ISP.Treinamento/ISP.Treinamento.csproj" />
   <Project Path="LSP.Treinamento.Tests/LSP.Treinamento.Tests.csproj" />
   <Project Path="LSP.Treinamento/LSP.Treinamento.csproj" />
   <Project Path="OCP.Treinamento/OCP.Treinamento.csproj" />
